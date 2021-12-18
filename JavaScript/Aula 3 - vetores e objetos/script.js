@@ -58,12 +58,3 @@ console.log(arrayInterno);
 
 var { string, boolean, objectInterno} = object;
 console.log(string, boolean, objectInterno);
-
-
-
-
-
-
-
-
-
